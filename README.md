@@ -1,4 +1,4 @@
-# You can compare api(normal usage) vs api_v2(observer pattern approach with EDP) and observer_before.py vs observer_after.py
+ **You can compare api(normal usage) vs api_v2(observer pattern approach with EDP) and observer_before.py vs observer_after.py**
 
 The observer pattern and event driven programming is similiar to nodejs infrastructure. Nodejs uses single thread event loop
 and the event loop waits for events to occur (to observe an event). When an events occured it calls its hanler.
